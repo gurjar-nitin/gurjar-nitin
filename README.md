@@ -1,26 +1,145 @@
-<h1 align="center">Hi 👋, I'm Nitin Gurjar</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurjar-nitin&label=Profile%20views&color=0e75b6&style=flat" alt="gurjar-nitin" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gurjar-nitin" alt="gurjar-nitin" /></a> </p>
+# Hi 👋, I'm Nitin Gurjar
 
-- 🌱 I’m currently learning **DSA**
+### CSE Student • Frontend Developer • DSA Learner
 
-- 💬 Ask me about **Fronted**
-
-- 📫 How to reach me **gurjarnitin464@gmail.com**
-
-- ⚡ Fun fact **I am a Gamer.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nitin-gurjar-8aab3434a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nitin-gurjar-8aab3434a" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/gurjar-nitin">
+    <img src="https://img.shields.io/badge/GitHub-gurjar--nitin-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://linkedin.com/in/nitin-gurjar-8aab3434a">
+    <img src="https://img.shields.io/badge/LinkedIn-Nitin%20Gurjar-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=gurjar-nitin&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p>
+  <b>Learning. Building. Improving. 🚀</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurjar-nitin&show_icons=true&locale=en&layout=compact" alt="gurjar-nitin" /></p>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gurjar-nitin&show_icons=true&locale=en" alt="gurjar-nitin" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurjar-nitin&" alt="gurjar-nitin" /></p>
+## 👨‍💻 About Me
+
+- 🎓 CSE student interested in software development
+- 🌱 Currently learning **DSA**
+- 💻 Interested in **Frontend Development**
+- 🧠 Exploring **Java, JavaScript, React and backend fundamentals**
+- 🔧 Learning **Git, GitHub and DevOps fundamentals**
+- 🎮 Gamer in my free time
+- 📫 Reach me at **[gurjarnitin464@gmail.com](mailto:gurjarnitin464@gmail.com)**
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" height="42" alt="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" height="42" alt="C++">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" height="42" alt="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript">
+</p>
+
+### Web & Development
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" height="42" alt="HTML5">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" height="42" alt="CSS3">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="42" height="42" alt="React">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js">
+</p>
+
+### Database & Tools
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" height="42" alt="MySQL">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" height="42" alt="Git">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="42" height="42" alt="Kubernetes">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="42" height="42" alt="Unity">
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=gurjar-nitin&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&count_private=false" alt="Nitin's GitHub stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gurjar-nitin&layout=compact&hide_border=true&langs_count=8" alt="Nitin's top languages">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/gurjar-nitin?style=for-the-badge&label=PUBLIC%20REPOSITORIES" alt="Public repositories">
+  <img src="https://img.shields.io/github/followers/gurjar-nitin?style=for-the-badge&label=FOLLOWERS" alt="Followers">
+  <img src="https://img.shields.io/github/commit-activity/y/gurjar-nitin?style=for-the-badge&label=YEARLY%20COMMITS" alt="Yearly commits">
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=gurjar-nitin&hide_border=true" alt="Nitin's GitHub contribution streak">
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gurjar-nitin&hide_border=true&area=true" alt="Nitin's GitHub activity graph">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🔎 TapTab
+
+**Intelligent Search Engine**
+
+A web-development project focused on building a clean search experience using HTML, CSS and JavaScript.
+
+**Stack:** HTML • CSS • JavaScript
+
+**Status:** 🚧 In development
+
+</td>
+
+<td width="50%">
+
+### 🍔 Food Ordering UI
+
+**Zomato-style Frontend**
+
+A frontend practice project focused on multi-page layouts, navigation, restaurant pages and responsive styling.
+
+**Stack:** HTML • CSS • JavaScript
+
+**Status:** 🚧 In development
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🎯 Current Focus
+
+```text
+DSA                  ███████░░░  Learning
+Frontend Development ████████░░  Building
+JavaScript           ██████░░░░  Improving
+React                █████░░░░░  Learning
+Git & GitHub         ██████░░░░  Practicing
+DevOps               ████░░░░░░  Exploring
